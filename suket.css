@@ -19,7 +19,7 @@ header{
 	padding-top:25vh;
 }
 #show p{
-	font-size:1rem;
+	font-size:1.2rem;
 }
 
 #heading{
@@ -28,7 +28,7 @@ header{
 #share{padding-top: 4vh;
 }
 .button{
-font-size:1rem ;
+font-size:1.5rem ;
 text-decoration: none;
 color: #fff;
 font-weight: bold;
@@ -36,7 +36,7 @@ border:#fff 2px solid;
 padding:3px 0;
 border-radius:10px;
 margin-top:6vh;
-background-color: rgba(0,0,0,0.7);
+background-color: rgba(0,0,0,0);
 }
 
 .button:hover{
@@ -94,9 +94,10 @@ li a{
 	height: 65vh;
 }
 #title_sponsors h1, #c_guest h1, #events h1, #register h1, #assoc_sponsors h1{
-	font-size:1.8rem;
+	padding:1vh 0vw;
+	font-size:2rem;
 	margin-bottom:10vh;
-	background-color: rgba(0,0,0,0.7);
+	background-color: rgba(128,0,128,0.8);
 	width:100%;
 }
 #title_sponsors img, #assoc_sponsors img{float:left;
