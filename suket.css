@@ -169,7 +169,87 @@ span{margin:0 2vh;
 	background-color: rgba(0,240,240,0.8);
 	width:60%;padding:1vh 2vw;
 }
+@media(min-width:890px){
+	body{
+		font-size:1.2rem;
+		line-height:1.8;
+	}
 
+	#heading{
+		font-size: 5.5rem;
+	}
+	#show p{
+	font-size:1.2rem;
+    }
+    #share{padding-top: 13vh;}
+	#share img{
+		width:13%;
+	}
+ .button{
+   width:60%;
+   margin:auto;
+   font-size: 1.1rem;
+   text-decoration: none;
+   font-weight: bold;
+   border:#fff 3px solid;
+   padding:3px;
+   border-radius:15px;
+   margin-top:4vh;
+}
+
+#title_sponsors h1, #c_guest h1, #events h1, #register h1, #assoc_sponsors h1{
+	font-size:2.2rem;
+	margin:auto auto 1.5vh auto;
+	text-align: center;
+}
+
+.logos{display:inline-block;
+	width:20%;
+}
+#title_sponsors, #assoc_sponsors{
+	height:40vh;
+}
+#title_sponsors img, #assoc_sponsors img{align-items: center;
+	width:50%;
+}
+
+#c_guest{padding-bottom:0vh;
+}
+#c_guest .cg{
+	border-radius: 30px;
+	width:30%;
+	display:inline-block;
+	margin:10vh auto 10vh auto;
+}
+#events{height:330vh;
+	width:100%;
+	margin:auto;
+}
+#e_e{margin:auto;
+	width:80%;
+	padding-top: 15vh;
+}
+.event{height:40vh;
+	float:left;
+	width:30%;
+	padding:1%;
+	margin: 0.667%;
+	border-radius:30px;}
+
+.lo{display:inline-block;
+	width:20%;
+}
+
+#share img{
+	width:10%;
+}
+fieldset img{width:7em;
+	padding:0 5.5rem;
+}
+.rrr{font-size:3vh;
+	padding:1.5vh 2vw;
+}
+}
 
 
 
