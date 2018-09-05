@@ -133,6 +133,9 @@ margin-top:0vh;
 	border-radius:50%;
 	width:50%;
 }
+.front h2{margin-top:5vh;
+	color:#000;
+	}
 #register{
 	background-color:rgba(255,255,255,0.3);
 	padding-bottom:20vh;
@@ -228,7 +231,7 @@ span{margin:0 2vh;
 	padding:1%;
 	margin: 0.667%;
 	border-radius:30px;}
-.front h2{margin-top:5vh;
+.front h2{margin-top:0vh;
 	color:#000;
 	}
 .as{display:inline-block;
