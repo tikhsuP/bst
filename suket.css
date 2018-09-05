@@ -19,7 +19,7 @@ header{
 	padding-top:25vh;
 }
 #show p{
-	font-size:0.8rem;
+	font-size:1rem;
 }
 
 #heading{
@@ -28,7 +28,7 @@ header{
 #share{padding-top: 4vh;
 }
 .button{
-font-size:0.9rem ;
+font-size:1rem ;
 text-decoration: none;
 color: #fff;
 font-weight: bold;
@@ -63,9 +63,6 @@ li a{
 #share{
 	margin:auto auto 20vh auto;
 	width:60%;
-}
-#share li{
-	color:#000;
 }
 #share img{
 	width:30%;
@@ -124,7 +121,7 @@ margin-top:0vh;
 	background-color:rgba(255,255,255,0.3);
 	padding-bottom:35vh;
 }
-.event{ font-size:2vh;
+.event{
 	height:50vh;
 	width:95%;
 	margin:auto;
