@@ -26,7 +26,6 @@ header{
 	font-size: 10vh;
 }
 #share{padding-top: 4vh;
-	margin-bottom:20vh;
 }
 .button{
 font-size:0.9rem ;
@@ -61,7 +60,9 @@ li a{
 .event img, .s_media{
 	transition:transform 0.4s;
 }
-#share{width:60%;
+#share{
+	margin:auto auto 20vh auto;
+	width:60%;
 }
 #share li{
 	color:#000;
