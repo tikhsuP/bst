@@ -26,7 +26,6 @@ header{
 	font-size: 10vh;
 }
 #share{padding-top: 4vh;
-	margin-bottom:15vh;
 }
 .button{
 font-size:0.9rem ;
@@ -99,6 +98,7 @@ li a{
 #title_sponsors h1, #c_guest h1, #events h1, #register h1, #assoc_sponsors h1{
 	font-size:1.6rem;
 	margin-bottom:10vh;
+	margin-top:10vh;
 	background-color: rgba(0,0,0,0.7);
 	width:100%;
 }
