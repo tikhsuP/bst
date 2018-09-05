@@ -129,12 +129,12 @@ margin-top:0vh;
 	border-radius:15px;
 }
 .event img{margin-top: 2vh;
-	border:5px solid purple ;
+	border:8px solid orange ;
 	border-radius:50%;
 	width:50%;
 }
 .front h2{margin-top:5vh;
-	color:#000;
+	color:orange;
 	}
 #register{
 	background-color:rgba(255,255,255,0.3);
@@ -169,22 +169,22 @@ span{margin:0 2vh;
 	width:60%;padding:1vh 2vw;
 }
 @media(min-width:890px){
-	body{
-		font-size:1.5rem;
-		line-height:1.8;
-	}
+body{
+      font-size:1.5rem;
+      line-height:1.8;
+    }   
 
-	#heading{
+#heading{
 		font-size: 6.5rem;
 	}
-	#show p{
+#show p{
 	font-size:1.5rem;
     }
-    #share{padding-top: 13vh;}
-	#share img{
+#share{padding-top: 13vh;}
+#share img{
 		width:13%;
-	}
- .button{
+}
+.button{
    width:60%;
    margin:auto;
    font-size: 1.4rem;
