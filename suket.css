@@ -1,6 +1,16 @@
-body {margin: 0;
-     background:#fff;
-  height:auto;
+*{margin:0;
+  padding:0;
+}
+body {background-image: url('t.jpeg');
+     background-repeat: no-repeat;
+     height:100vh;
+     background-size: cover;
+     background-position:center;
+     background-attachment: fixed;
+     text-align:center;
+     font-family: "Open Sans", Tahoma, sans-serif;
+     color:#fff;
+     line-height: 1.6;
 }
 
 h1 {
