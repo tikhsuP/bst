@@ -45,7 +45,7 @@ li a{
 text-decoration: none;
 }
 .s_media:hover{
-	transform:scale(0.9);
+	transform:scale(0.9);}
 .event img:hover{
 	transform:scale(1.15);
 }
