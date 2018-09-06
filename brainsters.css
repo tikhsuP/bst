@@ -45,7 +45,7 @@ li a{
 text-decoration: none;
 }
 .event img:hover, .s_media:hover{
-	transform:scale(1.3);
+	transform:scale(1.15);
 }
 .event img, .s_media{
 	transition:transform 0.4s;
