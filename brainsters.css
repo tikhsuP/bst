@@ -29,19 +29,14 @@ header{
 .button{
 font-size:1.5rem ;
 text-decoration: none;
-color: #fff;
+background:#fff;
+color:orange;
 font-weight: bold;
-border:#fff 2px solid;
+border:#ee82ee 2px solid;
 padding:3px 0;
 border-radius:15px;
 margin-top:6vh;
-background-color: rgba(128,0,128,0.5);
 }
-.button:hover{
-	background:#fff;
-	color:orange;
-}
-
 ul{text-align: center;
 }
 li{display: inline;
