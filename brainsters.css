@@ -44,7 +44,9 @@ li{display: inline;
 li a{
 text-decoration: none;
 }
-.event img:hover, .s_media:hover{
+.s_media:hover{
+	transform:scale(0.9);
+.event img:hover{
 	transform:scale(1.15);
 }
 .event img, .s_media{
