@@ -120,13 +120,13 @@ margin-top:0vh;
 	background-color:rgba(255,255,255,0.6);
 	border-radius:15px;
 }
-.event img{margin-top: 2vh;
+.event img{margin-top: 3vh;
 	border:8px solid orange ;
 	border-radius:50%;
 	width:50%;
 }
-.front h2{margin-top:5vh;
-	  color: #ffa500;
+.front h2{margin-top:3.5vh;
+	  color: #000;
 	 }
 #register{
 	background-color:rgba(255,255,255,0.3);
