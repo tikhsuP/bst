@@ -94,6 +94,11 @@ li a{
 	background-color: rgba(128,0,128,0.6);
 	width:100%;
 }
+#register{margin: auto;
+	font-size: 2rem;
+	width:60%;
+}
+
 #title_sponsors img, #assoc_sponsors img{float:left;
 	display:inline;
 	padding:0 12.5%;
