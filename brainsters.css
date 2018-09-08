@@ -12,6 +12,8 @@ body {background-image: url('t.jpeg');
      color:#fff;
      line-height: 1.2;
 }
+a{
+text-decoration: none;}
 header{
 	padding: 0vh 4vw;
 }
